@@ -167,6 +167,7 @@ GitHub.sublime-settings
 ###########
 
 .vagrant/
+.ansible/
 
 #######
 # Vim #
