@@ -74,6 +74,10 @@ Temporary Items
 /test/version_tmp/
 /tmp/
 
+## Specific to Middleman:
+/.cache
+/build
+
 ## Specific to RubyMotion:
 .dat*
 .repl_history
