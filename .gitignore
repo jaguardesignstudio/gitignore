@@ -2,6 +2,7 @@
 # Ansible #
 ###########
 
+.ansible/
 *.retry
 
 ##########
@@ -199,7 +200,6 @@ GitHub.sublime-settings
 ###########
 
 .vagrant/
-.ansible/
 
 #######
 # Vim #
