@@ -26,6 +26,7 @@ git_stats
 ##############
 
 node_modules
+yarn-error.log
 
 #########
 # Linux #
