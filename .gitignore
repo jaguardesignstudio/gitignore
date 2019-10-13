@@ -21,12 +21,22 @@ erl_crash.dump
 
 git_stats
 
+############
+# IntelliJ #
+############
+
+.idea/
+
 ##############
 # JavaScript #
 ##############
 
+*.jsbundle
+.npm/
+npm-debug.log*
 node_modules
-yarn-error.log
+yarn-debug.log*
+yarn-error.log*
 
 #########
 # Linux #
@@ -206,6 +216,12 @@ Session.vim
 # auto-generated tag files
 tags
 tags.*
+
+##########
+# VSCode #
+##########
+
+.vscode/
 
 #########
 # Xcode #
