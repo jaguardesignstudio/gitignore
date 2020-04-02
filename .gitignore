@@ -38,7 +38,7 @@ npm-debug.log*
 node_modules
 yarn-debug.log*
 yarn-error.log*
-yarn-integrity*
+.yarn-integrity
 
 #########
 # Linux #
@@ -157,6 +157,7 @@ pickle-email-*.html
 
 # Webpacker
 /public/packs
+/public/packs-test
 
 #############
 # SASS/SCSS #
