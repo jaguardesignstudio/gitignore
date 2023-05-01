@@ -141,6 +141,7 @@ capybara-*.html
 /public/sitemap.xml.gz
 /coverage/
 /spec/tmp
+/app/assets/builds
 **.orig
 *.pid
 rerun.txt
